@@ -9,6 +9,9 @@ var food = [
     'Everyday Noodles',
     'Sushi Fuku',
     'Costco',
+    'Spam',
+    "David's noodles"
+    "that one thai place with the huge servings"
 ]
 
 function pickFood() {
